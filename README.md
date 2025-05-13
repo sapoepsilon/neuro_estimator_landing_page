@@ -1,10 +1,10 @@
-# Neuro Estimator Landing Page
+# Estimating Agent Landing Page
 
-A modern, responsive landing page for Neuro Estimator - an AI-powered construction estimation tool.
+A modern, responsive landing page for Estimating Agent - an AI-powered construction estimation tool.
 
 ## Overview
 
-This landing page showcases the features and development timeline of Neuro Estimator, an innovative solution for construction estimation using artificial intelligence.
+This landing page showcases the features and development timeline of Estimating Agent, an innovative solution for construction estimation using artificial intelligence.
 
 ## Features
 
@@ -41,6 +41,7 @@ npx http-server
 ## Browser Compatibility
 
 This landing page is compatible with all modern browsers including:
+
 - Chrome
 - Firefox
 - Safari
@@ -48,4 +49,4 @@ This landing page is compatible with all modern browsers including:
 
 ## License
 
-© 2025 Neuro Estimator. All rights reserved.
+© 2025 Estimating Agent. All rights reserved.
